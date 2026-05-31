@@ -1,0 +1,4 @@
+2026-05-31 18:11:54 | Program started
+2026-05-31 18:11:58 | Viewed all expenses
+2026-05-31 18:12:01 | Calculated total spent
+2026-05-31 18:12:03 | Calculated totals by category
